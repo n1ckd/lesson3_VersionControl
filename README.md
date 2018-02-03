@@ -13,6 +13,9 @@ Nicholas D'Angelo
 ## Project Description:
 (In your own words, briefly describe the assignment.)
 
+## View Project:
+https://n1ckd.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
 1. the benefits of github to a development team or developer
 2. How the different commands in github work and manage files
