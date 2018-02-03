@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+Febuary 1st 2018
 
 ## Student Name:  
-(First and Last Name)
+Nicholas D'Angelo
 
 ## Project Description:
 (In your own words, briefly describe the assignment.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. the benefits of github to a development team or developer
+2. How the different commands in github work and manage files
+3. How Github promotes collaboration and open source projects
 
